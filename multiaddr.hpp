@@ -28,7 +28,7 @@ namespace multiaddr
  * @brief A generic interface for hashes
  */
 template<class T>
-class multiaddr
+class MultiAddress
 {
 };
 
